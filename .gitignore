@@ -33,5 +33,5 @@
 
 # patch
 *.vs
-*.debug
-*.ipch
+Debug
+ipch
