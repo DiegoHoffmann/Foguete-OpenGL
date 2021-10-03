@@ -6,7 +6,8 @@
 /*
  *  Set raster curser in window (pixel) coordinates
  */
-#include <gl/glut.h>
+#include <GL/glut.h>
+
 void glWindowPos4f(float x,float y,float z,float w)
 {
    //  Integer versions of x and y

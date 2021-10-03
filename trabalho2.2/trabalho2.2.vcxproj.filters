@@ -21,8 +21,5 @@
     <ClCompile Include="bibutil.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="glWindowPos.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
   </ItemGroup>
 </Project>
