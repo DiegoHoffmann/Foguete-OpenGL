@@ -27,6 +27,5 @@ Atividade desenvolvida na cadeira de Computação grafica na Ulbra Gravataí. De
 > start Debug/trabalho2.2.exe
 
 
+![Trabalho 2 2 2021-10-03 17-23-46](https://user-images.githubusercontent.com/39543693/135771737-4f1b9e5b-9670-448b-ae7a-014ab6208b32.gif)
 
-
-![image](https://user-images.githubusercontent.com/39543693/101115677-84a0f280-35c2-11eb-8563-06bd82956680.png)
